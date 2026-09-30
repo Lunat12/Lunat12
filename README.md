@@ -1,7 +1,5 @@
-![me](https://i.imgur.com/ZGJ1zcL.png)
-
 <h1 align="center">Hi 👋, I'm Natalia Muñiz</h1>
-<h3 align="center">A Software Engineer student who also enjoys Game Development.</h3>
+<h3 align="center">Game Programmer.</h3>
 
 - 🌱 I’m currently learning **Python, Java, HTML, CSS and Javascript**
 
